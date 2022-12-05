@@ -1,0 +1,68 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+.menu-link{
+    color: red;
+    display: inline-block;
+    vertical-align: middle;
+    text-align: center;
+    margin:0 36px;
+    padding: 10px;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 700;
+    letter-spacing: 2.7px;
+}
+.menu-item{
+    display: inline-block;
+}
+.img{
+    width: 100%;
+}
+.menu-wrap{
+    text-align: center;
+    list-style: none;
+}
+#title{
+    text-align: center;
+    letter-spacing: 3.3px;
+    color: #373737;
+    margin:38px auto 28px;
+}
+.text{
+    width: 1145px;
+    margin: 0 auto;
+    margin-bottom: 28px;
+    text-align: center; 
+    font-weight: 400;
+    font-size: 16px;
+    letter-spacing: 2.4px;
+    color: #373737;
+}
+.button{  
+    padding: 19px;
+   margin: 66px auto 42px;
+    width: 190px;
+    display:block;
+    background-color: red;
+    color: white;
+    border-radius: 4px;
+    font-weight: 700;
+    font-size: 12px; 
+    text-align: center;
+    text-decoration: none;
+    letter-spacing: 1.8px;
+    cursor: pointer;
+}
+.copyright{
+    text-align: right;
+    display: block;
+    margin: 0 105px 29px 0;
+    font-size: 16px;
+    font-weight: 700;
+    letter-spacing: 2.4px;
+    color: #373737;
+    ;
+}
